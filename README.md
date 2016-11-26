@@ -1,2 +1,3 @@
 # tvshow-crawler
-Grab TV show links from meijutt.com
+A simple Python script to grab TV show links from meijutt.com
+* Tested with Python 3.5.2
